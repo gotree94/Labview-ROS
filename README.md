@@ -1,5 +1,7 @@
 # LabVIEW & ROS/ROS 2 연동 통합 제어 실무 교육 커리큘럼
 
+![](labview-ros.png)
+
 ## 1. 교육 개요
 
 * **교육 과정명**: LabVIEW와 ROS/ROS 2를 활용한 미들웨어 연동 및 로봇 제어 시스템 구축 과정
